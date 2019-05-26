@@ -8,4 +8,4 @@ including:
 - [Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://github.com/yuyongze/Certificates/blob/master/Specialization/Coursera%20GEJCACBJVHD6.pdf) 
 - [Machine Learning with TensorFlow on Google Cloud Platform](https://github.com/yuyongze/Certificates/blob/master/Specialization/Coursera%20HJ7WAVB7896A.pdf)  
 - [IBM Data Science Professional Certificate](https://github.com/yuyongze/Certificates/blob/master/Specialization/Coursera%20LKVYQLM3U733.pdf)  
-- [Deep Learning] (https://github.com/yuyongze/Certificates/blob/master/Specialization/Coursera%20PNM5GFREGLXM.pdf)
+- [Deep Learning](https://github.com/yuyongze/Certificates/blob/master/Specialization/Coursera%20PNM5GFREGLXM.pdf)
